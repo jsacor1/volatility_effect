@@ -12,7 +12,7 @@ At the end of every month, equally weighted decile portfolios are constructed ba
 
 ## Results
 
-<img width="452" alt="Picture 1" src="https://user-images.githubusercontent.com/114669230/233850751-a1199ad3-f12b-4eea-8d74-a8188bdfad48.png">
+![Picture 1](https://user-images.githubusercontent.com/114669230/233850964-83b5a88d-b6eb-4ac8-a62d-019d32c8813a.png)
 
 Can be seen that most portfolios have similar performance with respect to their annualised return, so there seems to be a weak relation between historical volatility and the return on the following month if the last decile is not considered. The difference between the top and bottom decile is of around 3.5%.
 
